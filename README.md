@@ -1,4 +1,4 @@
-# project template for visual studio code for development container
+# project template for asciidoctor with visual studio development container
 
 ## Usage
 
